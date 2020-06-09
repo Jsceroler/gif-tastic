@@ -1,0 +1,26 @@
+body {
+    background: #000000;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Helvetica, sans-serif;
+}
+
+.color {
+    background: #8d8d8d;
+}
+
+.newColor {
+    background: #b0b0b0;
+}
+
+
+.border{
+    border-width: 3px 
+}
+
+#jojo {
+    position: relative;
+    height: 85%;
+    overflow-y: auto; 
+ 
+}
